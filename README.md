@@ -26,3 +26,15 @@ https://github.com/belchiorSX/app-cv
 
 Firebase-functions
 https://github.com/belchiorSX/firebase-functions
+
+## Backlog
+
+- Editar C.V
+- Cache PDF
+- Editar Empresa bloqueada
+- Editar Premisa
+- Importação via IA
+- Portal de busca
+- Planos
+
+
